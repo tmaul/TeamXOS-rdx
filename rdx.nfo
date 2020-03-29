@@ -1,0 +1,111 @@
+
+
+    ######### ########    ###    ###    ###      ###  ###   #####    ###### 
+    ######### ########    ###    ####  ####       ### ###  #######   ###### 
+       ###    ###         ####   ####  ####       ######  ###  #### ###   # 
+       ###    ###        #####   ####  ####       ######  ###   ### ###     
+       ###    ###        #####   ##########        #####  ##    ### ###     
+       ###    ########   ## ##   ##########        ####   ##     ## #####   
+       ###    ########   ## ##   ##########        ####   ##     ##  ###### 
+       ###    ########  ### ###  ##########        ####   ##     ##    #####
+       ###    ###       #######  ### ## ###        #####  ##     ##     ####
+       ###    ###       #######  ### ## ###       ######  ##    ###      ###
+       ###    ###      ###   ### ### ## ###       ### ### ###   ###      ###
+       ###    ###      ###   ### ###    ###      ###  ### #### #### ##  ####
+       ###    ######## ###   ### ###    ###      ###  ###  #######  ####### 
+       ###    ######## ###   ### ###    ###     ####   ###  #####   ###### 
+                                                                       
+                              Team Xboxopensource   
+
+
+      [ Program ............................................... RDX rls 1 ]
+      [ Type ....................... Dashboard/emulator ports/source code ]
+      [ OS ......................................................... Xbox ]
+      [ By ..................................................... Team XOS ]
+      [ Homepage .......................... http://www.xboxopensource.com ]
+      [ Release date ........................................... 1.1.2005 ]
+
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+///                                                                           ///
+
+     wtf?
+     ----
+     rdx (at this point at least) is a collection of new (but comparitivly) 
+     basic emulator ports along with very basic dashboard like functionallity. 
+
+     The primary aim of releasing this is to try and stimulate the xbox 
+     homebrew dev community a little as things seem to be quieting down a bit 
+     lately. :)
+
+     You are encouraged to make as many changes to the code as you want and 
+     submit them back to us for inclusion in a future version.
+
+     There are a few, hopefully non-restrictive, licencing type rules at the 
+     top of dash.cpp about what you can and can't do with the source to team
+     xos developed code. They are not there to limit what you can do with 
+     the code but more to ensure that you release the modified source to any
+     released binaries to help the development community. Certain parts of the
+     code written outside of Team XOS have slightly more restrictive licences
+     but please always follow the licence the original developers have assigned 
+     to there code. 
+
+     Any questions/code/suggestions can be emailed to us at rdxdev@gmail.com or 
+     check www.xboxopensource.com for other ways to contact us.
+
+     Enjoy!
+        - TMaul and the rest of Team Xos
+
+
+     P.S. Here are the emulators and other misc libs used in this version of 
+     RDX. 
+
+     TinyXML 2.3.2 (c) 2000-2002 Lee Thomason (www.grinninglizard.com)
+     TinyPTC (c) Gaffer (www.gaffer.org)
+     Zlib (c) The awesome zlib team (http://www.gzip.org/zlib/)
+     XKutils 0.2 (c) Team Assembly (www.team-assembly.com)
+     Rendering Panel Code (C) Xboxmediaplayer team (http://www.xboxmediaplayer.de/)
+     Misc bits and bobs from FBAx (c) Lantus, Tmaul and FBA team (www.lantus-x.com and fba.emuunlim.com)
+     Snes9x 1.43(c) snes9x team (http://www.snes9x.com)
+     GENS (c) Stef and gens contributors (http://gens.consolemul.com/)
+     SMSplus (c) Charles McDonald (cgfm2.emuviews.com)
+     FCEUltra (c) Xodnizel (www.?????)
+
+///                                                                           ///
+///////////////                                                   ///////////////
+///////////////                                                   ///////////////
+///                                                                           ///
+///  Release Notes                                                            ///
+///  -----------------------------------------------------------------------  ///
+
+     everything is more than basic in this current version but features are:
+     Emulates Snes, Nes, sms, megadrive
+     configurable rom, application and game paths via XML config file
+     Dashboard style app launching
+     The skelton code for some other features    
+
+///                                                                           ///
+///////////////                                                   ///////////////
+///////////////                                                   ///////////////
+///                                                                           ///
+///  Install Notes                                                            ///
+///  -----------------------------------------------------------------------  ///
+///                                                                           ///
+      Setup config.xml to your paths, copy to a dir on your xbox and run. :)
+
+///                                                                           ///
+///////////////                                                   ///////////////
+///////////////                                                   ///////////////
+///                                                                           ///
+///  Acknowledgements                                                         ///
+///  -----------------------------------------------------------------------  ///
+
+     Greetings to (in no particular order: Carcharius, Lantus, Likklebaer, 
+     The_joker & team ava, Iriez, XBMC team, X-port, unleashx team, evo-x team,
+     Xbox-scene.com staff, FBA team, and everyone else involved in xbox 
+     homebrew development  
+
+///                                                                           ///
+/////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////©2004 Team XOS////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////

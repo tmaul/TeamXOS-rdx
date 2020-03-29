@@ -1,0 +1,37 @@
+<rdx>
+	<mainmenu>
+		<menu name="Applications">
+			<autoadd>e:\apps</autoadd>
+			<autoadd>f:\apps</autoadd>
+		</menu>
+		<menu name="Games">
+			<autoadd>e:\games</autoadd>
+			<autoadd>f:\games</autoadd>
+		</menu>
+		<emulator name="sms">
+			<autoadd>d:\smsroms</autoadd>
+			<autoadd>e:\devkit\billboard\smsroms</autoadd>
+		</emulator>
+		<emulator name="md">
+			<autoadd>d:\mdroms</autoadd>
+			<autoadd>e:\devkit\billboard\mdroms</autoadd>
+		</emulator>
+		<emulator name="nes">
+			<autoadd>d:\nesroms</autoadd>
+			<autoadd>e:\devkit\billboard\nesroms</autoadd>
+		</emulator>
+		<emulator name="snes">
+			<autoadd>d:\snesroms</autoadd>		
+			<autoadd>e:\devkit\billboard\snesroms</autoadd>
+		</emulator>
+		<action name="fileman">File Browser</action>
+		<action name="system">System Menu</action>
+		<action name="reboot">Reboot</action>
+		<action name="poweroff">Power Off</action>
+	</mainmenu>
+	<config>
+		<music>
+			<autoadd>c:\</autoadd>	
+		</music>		
+	</config>
+</rdx>

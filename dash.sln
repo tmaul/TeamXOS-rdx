@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dashproject", "dashboard.vcproj", "{D6627F3C-E2A8-4A3C-B57B-2B217CA807C7}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Profile = Profile
+		Profile_FastCap = Profile_FastCap
+		Release = Release
+		Release_LTCG = Release_LTCG
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{D6627F3C-E2A8-4A3C-B57B-2B217CA807C7}.Debug.ActiveCfg = Debug|Xbox
+		{D6627F3C-E2A8-4A3C-B57B-2B217CA807C7}.Debug.Build.0 = Debug|Xbox
+		{D6627F3C-E2A8-4A3C-B57B-2B217CA807C7}.Profile.ActiveCfg = Profile|Xbox
+		{D6627F3C-E2A8-4A3C-B57B-2B217CA807C7}.Profile.Build.0 = Profile|Xbox
+		{D6627F3C-E2A8-4A3C-B57B-2B217CA807C7}.Profile_FastCap.ActiveCfg = Profile_FastCap|Xbox
+		{D6627F3C-E2A8-4A3C-B57B-2B217CA807C7}.Profile_FastCap.Build.0 = Profile_FastCap|Xbox
+		{D6627F3C-E2A8-4A3C-B57B-2B217CA807C7}.Release.ActiveCfg = Release|Xbox
+		{D6627F3C-E2A8-4A3C-B57B-2B217CA807C7}.Release.Build.0 = Release|Xbox
+		{D6627F3C-E2A8-4A3C-B57B-2B217CA807C7}.Release_LTCG.ActiveCfg = Release_LTCG|Xbox
+		{D6627F3C-E2A8-4A3C-B57B-2B217CA807C7}.Release_LTCG.Build.0 = Release_LTCG|Xbox
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
